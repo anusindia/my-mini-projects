@@ -21,6 +21,11 @@ Use the provided functionalities to manage student records:
 - Update student information: Select a student record from the displayed list, click on the "Update Record" button, modify the information, and save the changes.
 - Delete student records: Select a student record from the displayed list and click on the "Delete Record" button to remove it from the database.
 - Search for particular records: Utilize the "Search By" function to search for specific records based on criteria such as student name, ID, or any other relevant attribute.
+## _Dashboard Screenshot:_
+## _Description:_
+
+The dashboard provides a user-friendly interface for managing student records efficiently. 
+
 
 
 ## _Acknowledgments:_
