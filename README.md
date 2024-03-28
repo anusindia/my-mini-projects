@@ -25,6 +25,11 @@ Use the provided functionalities to manage student records:
 ## _Description:_
 
 The dashboard provides a user-friendly interface for managing student records efficiently. 
+![student_scree_1](https://github.com/anusindia/my-mini-projects/assets/165128384/544f681d-fde9-4ea1-9be0-51f9e6ee1769)
+
+![student_scree_2](https://github.com/anusindia/my-mini-projects/assets/165128384/bd66a1f0-64be-42ea-876e-f5a14125e83b)
+
+![student_scree_3](https://github.com/anusindia/my-mini-projects/assets/165128384/b89ca8e8-d7c2-4f5d-8a5a-3cb81c170d70)
 
 
 
